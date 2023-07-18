@@ -1,6 +1,11 @@
+import "@fontsource/orbitron";
 import { extendTheme } from "@chakra-ui/react";
 
 export const customTheme = extendTheme({
+    fonts: {
+        heading: "Orbitron, sans-serif",
+        body: "Orbitron,system-ui, sans-serif",
+    },
     styles: {
         global: {
             "::-webkit-scrollbar": {
