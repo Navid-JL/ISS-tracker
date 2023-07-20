@@ -1,6 +1,6 @@
 {
     "name": "iss-tracker",
-    "deploy": "gh-pages -d dist",
+    "homepage": "https://Navid-JL.github.io/ISS-tracker/",
     "private": true,
     "version": "0.0.0",
     "type": "module",
@@ -9,7 +9,7 @@
         "build": "vite build",
         "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
         "preview": "vite preview",
-        "homepage": "https://Navid-JL.github.io/ISS-tracker/",
+        "deploy": "gh-pages -d dist",
         "predeploy": "npm run build"
     },
     "dependencies": {
