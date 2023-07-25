@@ -15,10 +15,7 @@ JavaScript, HTML5, CSS3
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
+**Client:** React, Context, Bootstrap
 
 ## Screenshots
 
